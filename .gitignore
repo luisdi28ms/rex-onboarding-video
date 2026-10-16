@@ -1,0 +1,4 @@
+node_modules/
+out/*
+!out/rex-onboarding.mp4
+.DS_Store
